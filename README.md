@@ -14,6 +14,9 @@ Bud tea website. It includes multiple sections designed to showcase
 products, reviews, brand information, tea lattes, a journal section, and
 a responsive footer.
 
+live link :
+https://responsive-task-sheriyans-cohort-3.vercel.app/
+
 The page is built from scratch using:
 
 -   HTML5
